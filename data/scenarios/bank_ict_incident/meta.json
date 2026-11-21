@@ -1,0 +1,20 @@
+{
+  "title": "Bank API misconfiguration exposed customer data",
+  "organisation": "Noordbank N.V.",
+  "sector": "banking",
+  "entity_type": "credit_institution",
+  "nis2_entity": null,
+  "major_ict_incident": true,
+  "aware_at": "2026-11-19T08:10",
+  "classified_major_at": "2026-11-19T11:00",
+  "leaked_file": "api_log_extract.csv",
+  "dpa": "Autoriteit Persoonsgegevens (NL)",
+  "financial_supervisor": "De Nederlandsche Bank (DNB)",
+  "people_in_report": [
+    "Ruben Claes"
+  ],
+  "recipients": [
+    "Fintrail Analytics GmbH",
+    "Fintrail Analytics"
+  ]
+}

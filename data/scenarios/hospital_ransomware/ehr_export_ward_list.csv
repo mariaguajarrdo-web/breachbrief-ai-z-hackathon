@@ -1,0 +1,301 @@
+patient_id,first_name,last_name,bsn,date_of_birth,ward,diagnosis
+PT50000,Anna,Vos,874275416,25-11-1984,Cardiology,Atrial fibrillation
+PT50001,Lisa,Jansen,379338920,12-09-1980,Orthopaedics,Hip fracture
+PT50002,Eva,Müller,301116969,11-08-1991,Psychiatry,Major depressive disorder
+PT50003,Emma,Brouwer,676510425,26-02-1942,Cardiology,Atrial fibrillation
+PT50004,Tim,Weber,123577846,18-10-1986,Orthopaedics,Hip fracture
+PT50005,Felix,Hendriks,550642092,09-09-1940,Cardiology,Atrial fibrillation
+PT50006,Daan,Dekker,215621530,16-12-1995,Internal medicine,Type 2 diabetes
+PT50007,Lucas,Peters,290937759,01-03-1961,Orthopaedics,Hip fracture
+PT50008,Lotte,Hoffmann,352500876,04-01-1959,Internal medicine,Type 2 diabetes
+PT50009,Lucas,Schmidt,479979273,17-08-2000,Oncology,Breast cancer stage II
+PT50010,Finn,Smit,674245763,27-07-1991,Oncology,Breast cancer stage II
+PT50011,Jan,Visser,738387514,19-05-1986,Psychiatry,Major depressive disorder
+PT50012,Jan,Wagner,475439107,02-11-1999,Internal medicine,Type 2 diabetes
+PT50013,Max,Vos,657572032,25-06-1981,Orthopaedics,Hip fracture
+PT50014,Mila,Vos,174356493,11-05-1971,Oncology,Breast cancer stage II
+PT50015,Eva,Becker,991075006,18-05-2004,Maternity,"Pregnancy, 32 weeks"
+PT50016,Lisa,Mulder,181150529,02-10-1961,Internal medicine,Type 2 diabetes
+PT50017,Jan,Claes,975551267,03-11-1973,Maternity,"Pregnancy, 32 weeks"
+PT50018,Lucas,Weber,561080732,26-03-1977,Cardiology,Atrial fibrillation
+PT50019,Max,Schmidt,182589699,27-02-1992,Orthopaedics,Hip fracture
+PT50020,Bram,Smit,684932611,10-05-1953,Psychiatry,Major depressive disorder
+PT50021,Lena,de Boer,326408514,24-01-1996,Orthopaedics,Hip fracture
+PT50022,Eva,Meijer,856546574,23-06-1957,Psychiatry,Major depressive disorder
+PT50023,Thijs,Smit,454279073,16-08-1999,Internal medicine,Type 2 diabetes
+PT50024,Nina,Jansen,426328693,16-05-1981,Psychiatry,Major depressive disorder
+PT50025,Nina,Bakker,128923337,12-06-1961,Orthopaedics,Hip fracture
+PT50026,Daan,Hendriks,720316005,09-10-1943,Orthopaedics,Hip fracture
+PT50027,Bram,Hoffmann,177104703,28-07-1987,Cardiology,Atrial fibrillation
+PT50028,Julia,Bos,798765720,08-03-1962,Internal medicine,Type 2 diabetes
+PT50029,Felix,Müller,156374699,16-12-1966,Internal medicine,Type 2 diabetes
+PT50030,Julia,Jansen,259121642,09-11-1969,Psychiatry,Major depressive disorder
+PT50031,Sophie,Smit,955169379,09-08-1960,Psychiatry,Major depressive disorder
+PT50032,Anna,Weber,502610591,16-03-1999,Cardiology,Atrial fibrillation
+PT50033,Lucas,Hoffmann,340209203,06-03-1948,Maternity,"Pregnancy, 32 weeks"
+PT50034,Lotte,Dekker,176159034,12-10-1959,Maternity,"Pregnancy, 32 weeks"
+PT50035,Thijs,Peeters,955150620,25-12-1950,Orthopaedics,Hip fracture
+PT50036,Lotte,Mulder,440399233,25-11-1972,Oncology,Breast cancer stage II
+PT50037,Anna,Jansen,599155796,04-12-2000,Internal medicine,Type 2 diabetes
+PT50038,Max,de Vries,117568442,10-03-1988,Maternity,"Pregnancy, 32 weeks"
+PT50039,Thijs,Meijer,515872763,20-02-1994,Psychiatry,Major depressive disorder
+PT50040,Thijs,de Boer,258717749,19-05-1980,Maternity,"Pregnancy, 32 weeks"
+PT50041,Noah,Weber,249169769,09-02-2003,Psychiatry,Major depressive disorder
+PT50042,Finn,Dekker,406540603,08-11-1942,Cardiology,Atrial fibrillation
+PT50043,Max,Smit,115522293,16-08-1975,Psychiatry,Major depressive disorder
+PT50044,Marie,Claes,852772488,03-12-1977,Internal medicine,Type 2 diabetes
+PT50045,Iris,Schmidt,667817591,15-08-1982,Cardiology,Atrial fibrillation
+PT50046,Jonas,Smit,603558458,23-03-1966,Oncology,Breast cancer stage II
+PT50047,Bram,Hendriks,890714186,21-11-1968,Oncology,Breast cancer stage II
+PT50048,Bram,Visser,967075701,03-09-2001,Psychiatry,Major depressive disorder
+PT50049,Marie,Müller,567293609,02-07-1986,Psychiatry,Major depressive disorder
+PT50050,Thijs,Dekker,521840545,20-04-1951,Cardiology,Atrial fibrillation
+PT50051,Nina,de Boer,163344358,02-04-1993,Internal medicine,Type 2 diabetes
+PT50052,Lucas,de Boer,993782577,20-07-1976,Internal medicine,Type 2 diabetes
+PT50053,Ruben,Claes,438314396,22-10-1956,Internal medicine,Type 2 diabetes
+PT50054,Sophie,Mulder,605559570,15-02-1996,Psychiatry,Major depressive disorder
+PT50055,Anna,de Boer,489122048,28-02-1946,Psychiatry,Major depressive disorder
+PT50056,Lena,Peeters,269826269,19-03-1987,Maternity,"Pregnancy, 32 weeks"
+PT50057,Finn,Becker,882243457,02-06-1953,Maternity,"Pregnancy, 32 weeks"
+PT50058,Julia,Smit,602372124,07-01-1982,Cardiology,Atrial fibrillation
+PT50059,Lotte,Müller,348935304,16-04-1998,Maternity,"Pregnancy, 32 weeks"
+PT50060,Nina,Bos,443534354,04-08-1965,Cardiology,Atrial fibrillation
+PT50061,Jonas,Mulder,536052670,15-03-1991,Orthopaedics,Hip fracture
+PT50062,Jonas,Claes,358640970,06-08-1969,Psychiatry,Major depressive disorder
+PT50063,Noah,de Boer,671212655,08-12-1955,Orthopaedics,Hip fracture
+PT50064,Jan,Peeters,558296634,26-11-1976,Oncology,Breast cancer stage II
+PT50065,Ruben,Vos,156795851,23-03-1966,Cardiology,Atrial fibrillation
+PT50066,Nina,Weber,204843224,22-07-1988,Cardiology,Atrial fibrillation
+PT50067,Jonas,Jansen,874993659,21-12-1984,Oncology,Breast cancer stage II
+PT50068,Anna,Becker,279430838,18-06-1988,Psychiatry,Major depressive disorder
+PT50069,Ruben,Mulder,662278598,15-02-1941,Cardiology,Atrial fibrillation
+PT50070,Sophie,de Boer,957802444,01-06-2003,Maternity,"Pregnancy, 32 weeks"
+PT50071,Daan,Peeters,859487878,05-09-1960,Psychiatry,Major depressive disorder
+PT50072,Lucas,Dekker,195231582,11-10-1963,Orthopaedics,Hip fracture
+PT50073,Lotte,Weber,434719602,27-04-1942,Psychiatry,Major depressive disorder
+PT50074,Ruben,Peters,200156755,20-05-1976,Psychiatry,Major depressive disorder
+PT50075,Lucas,Peeters,363031157,08-05-1987,Orthopaedics,Hip fracture
+PT50076,Finn,Claes,467585623,17-10-1994,Maternity,"Pregnancy, 32 weeks"
+PT50077,Felix,Schmidt,781138346,02-12-1956,Maternity,"Pregnancy, 32 weeks"
+PT50078,Emma,de Vries,337943904,20-10-1991,Cardiology,Atrial fibrillation
+PT50079,Daan,de Boer,852063192,13-10-1985,Maternity,"Pregnancy, 32 weeks"
+PT50080,Emma,Schmidt,811473909,06-09-1980,Cardiology,Atrial fibrillation
+PT50081,Jan,Weber,258363046,11-11-1982,Oncology,Breast cancer stage II
+PT50082,Iris,Mulder,466836326,12-03-1982,Psychiatry,Major depressive disorder
+PT50083,Felix,de Vries,373041846,07-05-1954,Oncology,Breast cancer stage II
+PT50084,Iris,Wagner,492829275,04-07-1960,Maternity,"Pregnancy, 32 weeks"
+PT50085,Mila,Smit,169450399,13-01-1976,Oncology,Breast cancer stage II
+PT50086,Jonas,Müller,287238404,07-05-1965,Maternity,"Pregnancy, 32 weeks"
+PT50087,Noah,Brouwer,912295387,23-04-1996,Orthopaedics,Hip fracture
+PT50088,Sanne,Dekker,334874075,19-11-1970,Internal medicine,Type 2 diabetes
+PT50089,Noah,Smit,776304616,14-12-1956,Cardiology,Atrial fibrillation
+PT50090,Anna,Peters,619222372,07-08-1958,Maternity,"Pregnancy, 32 weeks"
+PT50091,Marie,Brouwer,280020132,14-01-2002,Maternity,"Pregnancy, 32 weeks"
+PT50092,Mila,de Vries,828969929,27-07-1973,Internal medicine,Type 2 diabetes
+PT50093,Bram,Bos,498594269,14-05-1951,Internal medicine,Type 2 diabetes
+PT50094,Eva,Smit,714861376,11-12-1965,Maternity,"Pregnancy, 32 weeks"
+PT50095,Sophie,Weber,727884359,01-12-1948,Cardiology,Atrial fibrillation
+PT50096,Sanne,Wagner,409494367,09-01-2005,Oncology,Breast cancer stage II
+PT50097,Lucas,Visser,553227579,27-06-1988,Internal medicine,Type 2 diabetes
+PT50098,Eva,Schmidt,593734579,02-08-1961,Cardiology,Atrial fibrillation
+PT50099,Thijs,Vos,918164990,18-02-1971,Cardiology,Atrial fibrillation
+PT50100,Marie,Bos,409117389,19-03-1951,Psychiatry,Major depressive disorder
+PT50101,Tim,Peeters,122953691,10-06-1957,Psychiatry,Major depressive disorder
+PT50102,Sophie,Claes,457266557,27-02-1980,Cardiology,Atrial fibrillation
+PT50103,Sanne,Hoffmann,551782237,12-03-1957,Orthopaedics,Hip fracture
+PT50104,Iris,Vos,672391673,15-11-1953,Orthopaedics,Hip fracture
+PT50105,Emma,Claes,430173611,20-10-1986,Cardiology,Atrial fibrillation
+PT50106,Emma,Bos,671238929,06-11-1967,Maternity,"Pregnancy, 32 weeks"
+PT50107,Tim,Claes,275794854,15-10-1967,Oncology,Breast cancer stage II
+PT50108,Fleur,Peeters,359903666,25-07-1946,Oncology,Breast cancer stage II
+PT50109,Thijs,Schmidt,150830427,18-09-1966,Maternity,"Pregnancy, 32 weeks"
+PT50110,Sanne,Visser,574398703,20-12-1989,Oncology,Breast cancer stage II
+PT50111,Marie,Jansen,556973562,01-12-1970,Oncology,Breast cancer stage II
+PT50112,Fleur,Müller,161431707,16-04-1974,Cardiology,Atrial fibrillation
+PT50113,Fleur,Claes,474532689,15-02-1988,Internal medicine,Type 2 diabetes
+PT50114,Julia,Visser,462866932,03-11-1966,Psychiatry,Major depressive disorder
+PT50115,Noah,Dekker,263552950,02-07-2002,Orthopaedics,Hip fracture
+PT50116,Felix,de Boer,994722321,18-06-1951,Maternity,"Pregnancy, 32 weeks"
+PT50117,Eva,de Vries,244320731,06-05-1952,Oncology,Breast cancer stage II
+PT50118,Nina,Dekker,386236148,26-07-1963,Cardiology,Atrial fibrillation
+PT50119,Fleur,Hendriks,471792019,25-12-2003,Orthopaedics,Hip fracture
+PT50120,Daan,Wagner,824045464,10-02-1941,Orthopaedics,Hip fracture
+PT50121,Marie,Smit,537609209,16-11-1998,Cardiology,Atrial fibrillation
+PT50122,Sophie,Dekker,236333847,09-07-1972,Maternity,"Pregnancy, 32 weeks"
+PT50123,Max,Weber,547453607,05-11-1943,Orthopaedics,Hip fracture
+PT50124,Thijs,Mulder,934135903,04-03-1958,Maternity,"Pregnancy, 32 weeks"
+PT50125,Finn,Hendriks,570578553,28-07-1953,Maternity,"Pregnancy, 32 weeks"
+PT50126,Max,Bos,712073620,20-02-1940,Oncology,Breast cancer stage II
+PT50127,Mila,Weber,966796792,16-05-1940,Orthopaedics,Hip fracture
+PT50128,Emma,Hoffmann,963378375,05-04-1953,Oncology,Breast cancer stage II
+PT50129,Finn,Weber,542416517,12-04-2002,Psychiatry,Major depressive disorder
+PT50130,Marie,Bakker,515200876,07-05-1946,Oncology,Breast cancer stage II
+PT50131,Lucas,Bos,281373139,27-01-1942,Psychiatry,Major depressive disorder
+PT50132,Finn,de Boer,905371343,16-07-1988,Cardiology,Atrial fibrillation
+PT50133,Fleur,Peters,758166461,01-12-1956,Orthopaedics,Hip fracture
+PT50134,Emma,Bakker,763911768,08-05-1945,Cardiology,Atrial fibrillation
+PT50135,Eva,Visser,914570262,06-05-1944,Psychiatry,Major depressive disorder
+PT50136,Max,Jansen,826707415,04-07-1995,Internal medicine,Type 2 diabetes
+PT50137,Lucas,Müller,672665384,09-09-2002,Cardiology,Atrial fibrillation
+PT50138,Jonas,Peters,742364707,15-08-1991,Maternity,"Pregnancy, 32 weeks"
+PT50139,Jonas,de Vries,672348305,22-08-1968,Oncology,Breast cancer stage II
+PT50140,Thijs,Bakker,408907800,16-03-1943,Orthopaedics,Hip fracture
+PT50141,Julia,Wagner,957611535,25-02-1966,Internal medicine,Type 2 diabetes
+PT50142,Lena,Peters,623971823,20-03-1948,Psychiatry,Major depressive disorder
+PT50143,Tim,Becker,120347507,22-05-1958,Orthopaedics,Hip fracture
+PT50144,Lena,Vos,135228700,02-07-1977,Psychiatry,Major depressive disorder
+PT50145,Lisa,Bos,275183361,01-07-1967,Psychiatry,Major depressive disorder
+PT50146,Ruben,Visser,311537601,17-01-1943,Orthopaedics,Hip fracture
+PT50147,Ruben,Becker,478462438,05-09-1961,Maternity,"Pregnancy, 32 weeks"
+PT50148,Eva,Wagner,281756168,02-12-1982,Cardiology,Atrial fibrillation
+PT50149,Lena,Claes,434273946,04-02-1998,Internal medicine,Type 2 diabetes
+PT50150,Noah,Hendriks,131627521,28-09-1986,Maternity,"Pregnancy, 32 weeks"
+PT50151,Emma,Smit,556810818,04-01-1976,Psychiatry,Major depressive disorder
+PT50152,Mila,Mulder,733362539,19-05-1941,Internal medicine,Type 2 diabetes
+PT50153,Emma,Müller,871890690,07-01-1963,Oncology,Breast cancer stage II
+PT50154,Daan,Bakker,678484442,18-11-1951,Cardiology,Atrial fibrillation
+PT50155,Tim,Jansen,542295246,09-09-1982,Maternity,"Pregnancy, 32 weeks"
+PT50156,Bram,Müller,765546309,13-12-1967,Cardiology,Atrial fibrillation
+PT50157,Lucas,Smit,995251897,02-01-1950,Orthopaedics,Hip fracture
+PT50158,Iris,Peters,824339563,25-09-1981,Internal medicine,Type 2 diabetes
+PT50159,Mila,Becker,657981576,17-03-1997,Orthopaedics,Hip fracture
+PT50160,Noah,de Vries,118345126,04-04-1989,Orthopaedics,Hip fracture
+PT50161,Bram,Vos,939216620,19-09-1979,Oncology,Breast cancer stage II
+PT50162,Nina,Hoffmann,293777834,10-09-1959,Psychiatry,Major depressive disorder
+PT50163,Marie,Hendriks,675529700,06-02-1961,Psychiatry,Major depressive disorder
+PT50164,Anna,Meijer,479110402,07-06-1991,Cardiology,Atrial fibrillation
+PT50165,Ruben,Bos,328030478,18-07-1967,Psychiatry,Major depressive disorder
+PT50166,Julia,Dekker,795019373,07-04-1949,Maternity,"Pregnancy, 32 weeks"
+PT50167,Finn,Schmidt,993750576,11-01-1993,Maternity,"Pregnancy, 32 weeks"
+PT50168,Marie,Meijer,889086904,16-05-1977,Cardiology,Atrial fibrillation
+PT50169,Fleur,de Vries,941120569,24-03-1961,Psychiatry,Major depressive disorder
+PT50170,Max,Bakker,462138987,07-11-1956,Maternity,"Pregnancy, 32 weeks"
+PT50171,Mila,Claes,341536489,01-02-1997,Oncology,Breast cancer stage II
+PT50172,Lisa,Weber,852733938,02-12-1960,Internal medicine,Type 2 diabetes
+PT50173,Julia,Weber,429971825,13-05-1949,Psychiatry,Major depressive disorder
+PT50174,Julia,de Boer,702008448,21-04-1999,Oncology,Breast cancer stage II
+PT50175,Thijs,Jansen,728149357,18-02-1947,Maternity,"Pregnancy, 32 weeks"
+PT50176,Thijs,Weber,165545173,18-04-2003,Orthopaedics,Hip fracture
+PT50177,Jan,Mulder,126893640,14-01-1973,Psychiatry,Major depressive disorder
+PT50178,Jan,Vos,680968994,12-02-1995,Orthopaedics,Hip fracture
+PT50179,Noah,Visser,306815011,20-03-1994,Cardiology,Atrial fibrillation
+PT50180,Tim,Vos,802774271,02-09-1967,Cardiology,Atrial fibrillation
+PT50181,Lisa,Hoffmann,810868775,05-04-1955,Maternity,"Pregnancy, 32 weeks"
+PT50182,Noah,Mulder,743084676,24-12-1982,Internal medicine,Type 2 diabetes
+PT50183,Iris,Bakker,863028779,05-05-1966,Maternity,"Pregnancy, 32 weeks"
+PT50184,Mila,Peters,411158570,11-01-1978,Orthopaedics,Hip fracture
+PT50185,Marie,Peeters,857315262,04-09-1952,Oncology,Breast cancer stage II
+PT50186,Daan,Bos,587305800,07-12-1954,Internal medicine,Type 2 diabetes
+PT50187,Jan,Dekker,991682324,27-06-1974,Psychiatry,Major depressive disorder
+PT50188,Anna,Müller,430537797,22-02-1962,Orthopaedics,Hip fracture
+PT50189,Tim,Hendriks,353406648,23-10-1953,Maternity,"Pregnancy, 32 weeks"
+PT50190,Lotte,Claes,423446071,07-12-1953,Psychiatry,Major depressive disorder
+PT50191,Lucas,Wagner,230890830,28-09-1981,Internal medicine,Type 2 diabetes
+PT50192,Thijs,de Vries,498217978,15-06-1990,Internal medicine,Type 2 diabetes
+PT50193,Noah,Bakker,649354849,16-03-1949,Orthopaedics,Hip fracture
+PT50194,Sanne,Jansen,171734178,13-09-1990,Orthopaedics,Hip fracture
+PT50195,Jan,Jansen,149630359,16-06-1980,Psychiatry,Major depressive disorder
+PT50196,Noah,Müller,267718470,23-01-1992,Maternity,"Pregnancy, 32 weeks"
+PT50197,Julia,Brouwer,765357963,26-08-1978,Internal medicine,Type 2 diabetes
+PT50198,Jan,Müller,559021380,26-09-1985,Cardiology,Atrial fibrillation
+PT50199,Lotte,Jansen,457423377,26-08-1964,Maternity,"Pregnancy, 32 weeks"
+PT50200,Jan,Brouwer,240585148,01-10-1948,Psychiatry,Major depressive disorder
+PT50201,Felix,Jansen,734749727,18-01-1981,Maternity,"Pregnancy, 32 weeks"
+PT50202,Tim,Müller,426620707,16-05-1954,Internal medicine,Type 2 diabetes
+PT50203,Jonas,Hendriks,435554827,19-01-1994,Oncology,Breast cancer stage II
+PT50204,Sanne,Becker,150780527,05-12-1999,Orthopaedics,Hip fracture
+PT50205,Max,Claes,304273545,01-01-1951,Oncology,Breast cancer stage II
+PT50206,Daan,Schmidt,814470610,12-07-1966,Internal medicine,Type 2 diabetes
+PT50207,Marie,Mulder,167134164,23-05-1970,Psychiatry,Major depressive disorder
+PT50208,Fleur,Dekker,120774586,08-05-1997,Maternity,"Pregnancy, 32 weeks"
+PT50209,Jonas,Weber,823661568,06-05-1966,Cardiology,Atrial fibrillation
+PT50210,Eva,Mulder,206576924,28-11-1940,Cardiology,Atrial fibrillation
+PT50211,Daan,Vos,978616297,17-04-1962,Cardiology,Atrial fibrillation
+PT50212,Bram,Claes,841844501,19-07-1971,Oncology,Breast cancer stage II
+PT50213,Sanne,Peters,420846001,28-03-1983,Orthopaedics,Hip fracture
+PT50214,Anna,Mulder,813135394,05-05-1979,Internal medicine,Type 2 diabetes
+PT50215,Fleur,Vos,218317049,20-02-1990,Cardiology,Atrial fibrillation
+PT50216,Iris,de Vries,506660436,19-08-1950,Psychiatry,Major depressive disorder
+PT50217,Lotte,Becker,729163714,05-10-1942,Psychiatry,Major depressive disorder
+PT50218,Noah,Hoffmann,902118377,24-10-1947,Internal medicine,Type 2 diabetes
+PT50219,Lotte,Brouwer,524288811,22-02-1941,Orthopaedics,Hip fracture
+PT50220,Eva,Jansen,327112657,19-03-1992,Internal medicine,Type 2 diabetes
+PT50221,Sanne,Brouwer,743100360,06-07-1996,Cardiology,Atrial fibrillation
+PT50222,Daan,de Vries,131297326,04-03-1976,Internal medicine,Type 2 diabetes
+PT50223,Anna,Visser,110100098,25-08-1971,Oncology,Breast cancer stage II
+PT50224,Sanne,de Vries,717285145,20-02-1960,Psychiatry,Major depressive disorder
+PT50225,Noah,Bos,250197649,25-08-1956,Cardiology,Atrial fibrillation
+PT50226,Bram,Peeters,299360143,04-07-1995,Internal medicine,Type 2 diabetes
+PT50227,Felix,Dekker,614949932,18-10-1991,Internal medicine,Type 2 diabetes
+PT50228,Felix,Hoffmann,473369497,19-06-2003,Orthopaedics,Hip fracture
+PT50229,Jonas,Visser,495110462,01-11-1975,Cardiology,Atrial fibrillation
+PT50230,Fleur,Meijer,365470466,10-09-1958,Cardiology,Atrial fibrillation
+PT50231,Marie,Weber,669530359,28-07-1984,Oncology,Breast cancer stage II
+PT50232,Lucas,Mulder,547752283,16-04-1985,Cardiology,Atrial fibrillation
+PT50233,Mila,Hoffmann,104421332,09-09-1966,Internal medicine,Type 2 diabetes
+PT50234,Lucas,de Vries,257046112,26-08-1951,Psychiatry,Major depressive disorder
+PT50235,Noah,Claes,476469168,15-01-1943,Oncology,Breast cancer stage II
+PT50236,Iris,Weber,830848095,03-10-1982,Cardiology,Atrial fibrillation
+PT50237,Felix,Weber,472693591,24-07-1949,Internal medicine,Type 2 diabetes
+PT50238,Lena,Hoffmann,193157524,08-12-1961,Maternity,"Pregnancy, 32 weeks"
+PT50239,Daan,Visser,548286796,19-08-1982,Psychiatry,Major depressive disorder
+PT50240,Eva,Vos,311736233,05-10-1982,Orthopaedics,Hip fracture
+PT50241,Lena,Wagner,892289454,21-02-1991,Cardiology,Atrial fibrillation
+PT50242,Anna,Brouwer,580725741,24-11-1995,Maternity,"Pregnancy, 32 weeks"
+PT50243,Lotte,Wagner,942298196,27-09-1964,Oncology,Breast cancer stage II
+PT50244,Ruben,Meijer,329858051,09-08-1977,Maternity,"Pregnancy, 32 weeks"
+PT50245,Mila,de Boer,651922227,17-09-1944,Orthopaedics,Hip fracture
+PT50246,Nina,Müller,383914607,02-08-1954,Cardiology,Atrial fibrillation
+PT50247,Nina,Visser,135284405,09-06-1952,Oncology,Breast cancer stage II
+PT50248,Iris,Becker,965564605,23-06-1959,Orthopaedics,Hip fracture
+PT50249,Lisa,Hendriks,983067740,05-05-1972,Psychiatry,Major depressive disorder
+PT50250,Mila,Hendriks,771825602,22-11-1957,Maternity,"Pregnancy, 32 weeks"
+PT50251,Lena,Schmidt,262438033,28-07-1995,Psychiatry,Major depressive disorder
+PT50252,Marie,Schmidt,938705696,09-07-1983,Orthopaedics,Hip fracture
+PT50253,Sanne,Peeters,778563248,16-09-1978,Oncology,Breast cancer stage II
+PT50254,Sophie,Becker,905547226,27-09-1951,Maternity,"Pregnancy, 32 weeks"
+PT50255,Sanne,Vos,562467191,08-10-2004,Orthopaedics,Hip fracture
+PT50256,Sophie,Visser,954358442,04-06-1986,Internal medicine,Type 2 diabetes
+PT50257,Tim,de Vries,847086835,25-07-1990,Psychiatry,Major depressive disorder
+PT50258,Lisa,Wagner,789112358,11-01-1976,Orthopaedics,Hip fracture
+PT50259,Daan,Hoffmann,353078979,06-08-1991,Orthopaedics,Hip fracture
+PT50260,Lotte,Vos,287475128,03-01-1975,Orthopaedics,Hip fracture
+PT50261,Iris,de Boer,737391716,13-03-2005,Oncology,Breast cancer stage II
+PT50262,Noah,Peters,854728387,07-09-1996,Psychiatry,Major depressive disorder
+PT50263,Tim,Peters,210122067,15-03-1955,Psychiatry,Major depressive disorder
+PT50264,Iris,Jansen,830739786,17-02-1998,Internal medicine,Type 2 diabetes
+PT50265,Bram,Schmidt,670228497,05-04-1977,Maternity,"Pregnancy, 32 weeks"
+PT50266,Bram,Peters,185870843,14-12-1994,Maternity,"Pregnancy, 32 weeks"
+PT50267,Fleur,Visser,822660568,21-07-1951,Oncology,Breast cancer stage II
+PT50268,Iris,Bos,844151701,09-07-1940,Cardiology,Atrial fibrillation
+PT50269,Tim,de Boer,569242939,23-11-1941,Orthopaedics,Hip fracture
+PT50270,Lotte,Visser,706016026,22-02-2005,Cardiology,Atrial fibrillation
+PT50271,Marie,Becker,188040407,13-08-1984,Oncology,Breast cancer stage II
+PT50272,Lotte,de Boer,735120328,11-04-1967,Maternity,"Pregnancy, 32 weeks"
+PT50273,Lena,Smit,487470424,20-05-1959,Orthopaedics,Hip fracture
+PT50274,Emma,Weber,390292485,25-01-1974,Internal medicine,Type 2 diabetes
+PT50275,Anna,Hoffmann,469875434,17-04-2004,Internal medicine,Type 2 diabetes
+PT50276,Anna,Claes,724798109,18-07-1985,Psychiatry,Major depressive disorder
+PT50277,Thijs,Bos,489489436,16-06-1958,Internal medicine,Type 2 diabetes
+PT50278,Ruben,Wagner,714070294,05-03-1962,Oncology,Breast cancer stage II
+PT50279,Lisa,Brouwer,348446482,24-11-1951,Orthopaedics,Hip fracture
+PT50280,Fleur,Smit,457823665,23-11-1940,Orthopaedics,Hip fracture
+PT50281,Bram,Meijer,161169326,11-05-1981,Cardiology,Atrial fibrillation
+PT50282,Finn,Peters,791750103,27-09-1999,Internal medicine,Type 2 diabetes
+PT50283,Eva,Hendriks,490461062,27-09-1971,Psychiatry,Major depressive disorder
+PT50284,Jan,Meijer,694629509,22-09-1961,Maternity,"Pregnancy, 32 weeks"
+PT50285,Ruben,Hoffmann,980324579,02-10-1966,Oncology,Breast cancer stage II
+PT50286,Fleur,Bakker,414425327,14-10-1947,Cardiology,Atrial fibrillation
+PT50287,Anna,Wagner,602880993,02-06-1958,Cardiology,Atrial fibrillation
+PT50288,Jonas,Vos,748786533,11-11-2000,Oncology,Breast cancer stage II
+PT50289,Max,Becker,527202459,28-12-1977,Oncology,Breast cancer stage II
+PT50290,Fleur,Weber,636280214,07-02-1973,Oncology,Breast cancer stage II
+PT50291,Sophie,Brouwer,557860957,18-03-1992,Oncology,Breast cancer stage II
+PT50292,Felix,Smit,125919633,08-09-1993,Oncology,Breast cancer stage II
+PT50293,Finn,de Vries,448130324,04-11-1963,Oncology,Breast cancer stage II
+PT50294,Anna,Peeters,464432182,09-06-1947,Internal medicine,Type 2 diabetes
+PT50295,Lena,Visser,580229701,15-09-1991,Internal medicine,Type 2 diabetes
+PT50296,Felix,Mulder,444709800,17-05-2001,Internal medicine,Type 2 diabetes
+PT50297,Jonas,Becker,550313655,26-02-1988,Oncology,Breast cancer stage II
+PT50298,Ruben,de Boer,135684912,20-10-1993,Internal medicine,Type 2 diabetes
+PT50299,Nina,Peters,200207222,26-09-1941,Psychiatry,Major depressive disorder

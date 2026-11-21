@@ -1,0 +1,16 @@
+{
+  "title": "Ransomware at a hospital with suspected exfiltration",
+  "organisation": "St. Maarten Zorg",
+  "sector": "healthcare",
+  "entity_type": "hospital",
+  "nis2_entity": "essential",
+  "significant_incident": true,
+  "aware_at": "2026-11-20T06:30",
+  "leaked_file": "ehr_export_ward_list.csv",
+  "dpa": "Autoriteit Persoonsgegevens (NL)",
+  "csirt": "Z-CERT (Dutch healthcare CSIRT)",
+  "people_in_report": [
+    "Sven Hoekstra"
+  ],
+  "recipients": []
+}

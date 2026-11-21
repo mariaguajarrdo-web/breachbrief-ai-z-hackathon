@@ -1,0 +1,51 @@
+# BreachBrief theme: dark "cybersecurity" palette by default (native widgets start dark).
+# The app's "Light mode" switch repaints every surface through one set of CSS variables (see app.py PALETTES).
+# Inter and JetBrains Mono load from Google Fonts when online; offline the system fonts are used.
+[theme]
+base = "dark"
+primaryColor = "#3B82F6"
+linkColor = "#60A5FA"
+backgroundColor = "#0B1220"
+secondaryBackgroundColor = "#16213A"
+codeBackgroundColor = "#16213A"
+codeTextColor = "#E6EDF7"
+textColor = "#E6EDF7"
+borderColor = "#23314F"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&display=swap"
+codeFontSize = "0.88rem"
+baseFontSize = 17
+headingFontSizes = ["2rem", "1.45rem", "1.2rem", "1.05rem", "0.95rem", "0.85rem"]
+headingFontWeights = [700, 700, 650, 600, 600, 600]
+baseRadius = "10px"
+buttonRadius = "8px"
+showWidgetBorder = true
+showSidebarBorder = true
+linkUnderline = false
+paddingTop = "2rem"
+paddingBottom = "3rem"
+
+# status colours for :color[] text and icons
+blueColor = "#60A5FA"
+greenColor = "#22C55E"
+orangeColor = "#F59E0B"
+redColor = "#EF4444"
+grayColor = "#94A3B8"
+
+[theme.sidebar]
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#16213A"
+textColor = "#E6EDF7"
+borderColor = "#23314F"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+# offline demo: no usage telemetry
+gatherUsageStats = false
+
+[server]
+# demo laptop only: do not expose the app on the venue network
+address = "localhost"

@@ -1,0 +1,17 @@
+{
+  "title": "Payroll file emailed to the wrong supplier",
+  "organisation": "Kloosterman Payroll B.V.",
+  "sector": "business services (payroll)",
+  "entity_type": "payroll_provider",
+  "nis2_entity": null,
+  "aware_at": "2026-11-19T09:40",
+  "leaked_file": "payroll_november.csv",
+  "dpa": "Autoriteit Persoonsgegevens (NL)",
+  "people_in_report": [
+    "Marloes Kuipers"
+  ],
+  "recipients": [
+    "Brightline Supplies B.V.",
+    "Brightline Supplies"
+  ]
+}
